@@ -20,7 +20,7 @@
 </p>
 
 <!-- Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=prasant-paudel)](https://github.com/prasant-paudel/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prasant-paudel)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
