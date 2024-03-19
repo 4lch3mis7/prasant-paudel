@@ -60,6 +60,7 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/prasant-paudel/xgif"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prasant-paudel&repo=xgif&theme=react&bg_color=1F222E&title_color=368f8b&icon_color=F8D866&show_icons=false&hide_border=true" alt="xgif"></a>
+  <a href="https://github.com/prasant-paudel/xml-hydra"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prasant-paudel&repo=xml-hydra&theme=react&bg_color=1F222E&title_color=368f8b&icon_color=F8D866&show_icons=false&hide_border=true" alt="xgif"></a>
   <a href="https://github.com/prasant-paudel/nuclipy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prasant-paudel&repo=nuclipy&theme=react&bg_color=1F222E&title_color=368f8b&icon_color=F8D866&show_icons=false&hide_border=true" alt="nuclipy"></a>
   <a href="https://github.com/prasant-paudel/dmeth"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prasant-paudel&repo=dmeth&theme=react&bg_color=1F222E&title_color=368f8b&icon_color=F8D866&show_icons=false&hide_border=true" alt="dmeth"></a>
 </p>
